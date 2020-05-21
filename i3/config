@@ -193,3 +193,6 @@ set_from_resource $white color7 #fefefe
 
 client.focused $white $black $white $white $white
 
+# urxvt transparency
+exec --no-startup-id compton
+
