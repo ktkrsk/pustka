@@ -197,3 +197,6 @@ client.focused $white $black $white $white $white
 # urxvt transparency
 exec --no-startup-id compton
 
+# background
+exec --no-startup-id feh --bg-fill ~/pustka/wallpapers/min-galaxy.jpg
+
