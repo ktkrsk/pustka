@@ -182,8 +182,14 @@ bar {
 }
 
 ###### CHANGES
-# graps
-for_window[class="^.*"] border pixel 2
+# gaps
+for_window[class="^.*"] border pixel 4
 gaps inner 10
 gaps outer 0
+
+# colors
+set_from_resource $black color0 #000000
+set_from_resource $white color7 #fefefe
+
+client.focused $white $black $white $white $white
 

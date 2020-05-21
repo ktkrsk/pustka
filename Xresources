@@ -42,7 +42,7 @@ URxvt*visualBell: false
 ! URxvt*cursorUnderline:                boolean
 ! URxvt*cursorBlink:                    boolean
 ! URxvt*pointerBlank:                   boolean
-URxvt*background: #181512
+URxvt*background: #14110a
 URxvt*foreground: #bfbfbf
 
 URxvt*color0: #33302e
